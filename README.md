@@ -13,3 +13,4 @@ This project made possible thanks to
 - https://github.com/AlgoryL/Projects-from-Scratch
 - https://javascript30.com/
 - https://www.codementor.io/
+- https://lazyfoo.net/articles/article01/index.php
