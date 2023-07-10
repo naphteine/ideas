@@ -11,3 +11,4 @@ This project made possible thanks to
 - https://github.com/aquadzn/learn-x-by-doing-y
 - https://github.com/Xtremilicious/projectlearn-project-based-learning
 - https://github.com/AlgoryL/Projects-from-Scratch
+- https://javascript30.com/
