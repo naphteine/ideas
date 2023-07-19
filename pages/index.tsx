@@ -17,7 +17,12 @@ export default function Index({ allProjects }: Props) {
       </Head>
 
       <main>
+        <h1>{SITE_NAME}</h1>
+
         {heroProject && heroProject.title}
+
+        <hr />
+
         {moreProjects.length > 0 &&
           moreProjects.map((project) => {
             return <li key={project.title}>{project.title}</li>;
