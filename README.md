@@ -16,3 +16,7 @@ This project made possible thanks to
 - https://javascript30.com/
 - https://www.codementor.io/
 - https://lazyfoo.net/articles/article01/index.php
+
+## Trivial
+
+The name of this project, "Eiri", is inspired by the character Masami Eiri from the anime series "Serial Experiments Lain" (SEL).
