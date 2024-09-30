@@ -1,6 +1,6 @@
-# Eiri
+# ideas
 
-![GitHub repo file count (file extension)](https://img.shields.io/github/directory-file-count/naphteine/eiri/_projects?label=Project%20count)
+![GitHub repo file count (file extension)](https://img.shields.io/github/directory-file-count/naphteine/ideas/_projects?label=Project%20count)
 
 This repository contains project ideas with details under `\_projects' directory and a Next.js app to showcase and navigate through all ideas.
 
@@ -19,4 +19,4 @@ This project made possible thanks to
 
 ## Trivial
 
-The name of this project, "Eiri", is inspired by the character Masami Eiri from the anime series "Serial Experiments Lain" (SEL).
+The previous name of this project, "Eiri", is inspired by the character Masami Eiri from the anime series "Serial Experiments Lain" (SEL).
