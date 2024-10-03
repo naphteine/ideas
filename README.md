@@ -1,6 +1,6 @@
 # ideas
 
-![GitHub repo file count (file extension)](https://img.shields.io/github/directory-file-count/naphteine/ideas/_projects?label=Project%20count)
+![GitHub repo file count (file extension)](https://img.shields.io/github/directory-file-count/naphteine/ideas/_projects?label=Idea%20count)
 
 This repository contains project ideas with details under `\_projects' directory and a Next.js app to showcase and navigate through all ideas.
 
